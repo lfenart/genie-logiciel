@@ -1,0 +1,12 @@
+[submodule "gl1920-cmwfb-parent"]
+	path = gl1920-cmwfb-parent
+	url = https://github.com/lfenart/gl1920-cmwfb-parent
+[submodule "gl1920-cmwfb-model"]
+	path = gl1920-cmwfb-model
+	url = https://github.com/lfenart/gl1920-cmwfb-model
+[submodule "gl1920-cmwfb-dao-mem"]
+	path = gl1920-cmwfb-dao-mem
+	url = https://github.com/lfenart/gl1920-cmwfb-dao-mem
+[submodule "gl1920-cmwfb-app"]
+	path = gl1920-cmwfb-app
+	url = https://github.com/lfenart/gl1920-cmwfb-app
